@@ -1,12 +1,10 @@
 # Go Route Picker
 
-I work in an industrial area, the fastest route home is backed up with traffic fairly frequently due to some road works along the way.
+Where I work, the fastest route home is backed up with traffic fairly frequently due to some prolonged road works along the way.
 
-There is an alternative route I can take that is usually slower, but on days when traffic is backed up - it is quicker to go this way.
+There is an alternative route I can take that is usually slower, but on days when traffic is backed up - it is the quicker route.
 
 Leveraging the Google Maps Directions API - I can get Google to indicate the best route to take, factoring in traffic.
-
-It has also served as a good opportunity to start toying with the Google Maps API in Go.
 
 ## Installation
 
